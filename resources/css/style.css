@@ -5,11 +5,28 @@ body {
 
 }
 
+/* All of my Headings */
+
 .header--main {
     font-weight: normal;
     font-size: 50px;
     color: #fff;
 }
+
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: #fff;
+}
+
+.header--sub-header {
+    font-weight: 300;
+    font-size: 21px;
+    color: grey;
+}
+
+/* All of my damn Links */
+
 
 .link--cta {
     font-size: 16px;
